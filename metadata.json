@@ -1,0 +1,6 @@
+{
+  "name": "Spark AIOU",
+  "description": "Premium All-in-One student platform with Books, Guess Papers, Past Papers, Solved Assignments, and Resource Finder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
